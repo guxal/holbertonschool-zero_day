@@ -1,0 +1,3 @@
+- GitHub repository: holbertonschool-zero_day
+- Directory: 0x02-vi
+- File: 0-inserting
